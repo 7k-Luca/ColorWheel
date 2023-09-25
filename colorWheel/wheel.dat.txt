@@ -1,0 +1,12 @@
+Yellow         
+Amber          
+Orange         
+Vermillion     
+Red            
+Magenta        
+Purple         
+Violet         
+Blue           
+Teal           
+Green          
+Chartreuse     
